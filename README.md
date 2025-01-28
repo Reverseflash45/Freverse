@@ -78,9 +78,7 @@
         </ul>
         <p>I hope you enjoy this site and feel inspired by the things I am working on!</p>
     <img src="https://gifdb.com/images/high/jojo-s-kakyoin-cherry-tongue-9ffq5scfr70o6sft.gif">
-    <ul> - </p>
-    <p> - </p>
-    <p> - </p>
+<br>
     </div>
 
     
