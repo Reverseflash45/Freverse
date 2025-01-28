@@ -85,27 +85,27 @@
     <div class="container" id="My Stories">
         <h2>My Stories</h2>
         
-        <h3><b></ul>Introduce</b></h3>
-        <p><p style="text-indent: 45px;">My name is Rafi Fernandito Setiawan, or known as Rafi. My birthplace is Kediri City, located in East Java, on January 26 2005. Since childhood, I have always had high aspirations. Even though I live in simple conditions, my parents always encourage me to dare to achieve my dreams and work hard to make them come true.</ul></p>
+        <h3><b>Introduce</b></h3>
+        <p><p style="text-indent: 45px;">My name is Rafi Fernandito Setiawan, or known as Rafi. My birthplace is Kediri City, located in East Java, on January 26 2005. Since childhood, I have always had high aspirations. Even though I live in simple conditions, my parents always encourage me to dare to achieve my dreams and work hard to make them come true.</p>
         
-        <h3><b></ul>The period of my life in kindergarden</b></h3>
-        <p><p style="text-indent: 45px;">My childhood was filled with playing in the rice fields and traveling around the village on a bicycle with my friends after school, and reciting the Koran every evening after sunset. However, the desire to learn always burned within me. I have always been a diligent student at school, even though I often only had limited textbooks. I always study every time I come home from studying the Koran, more precisely I always study from 7 to 9, then I sleep. I wake up at 4 am to study, pray, and prepare my needs to go to school.</p></ul>
+        <h3><b>The period of my life in kindergarden</b></h3>
+        <p><p style="text-indent: 45px;">My childhood was filled with playing in the rice fields and traveling around the village on a bicycle with my friends after school, and reciting the Koran every evening after sunset. However, the desire to learn always burned within me. I have always been a diligent student at school, even though I often only had limited textbooks. I always study every time I come home from studying the Koran, more precisely I always study from 7 to 9, then I sleep. I wake up at 4 am to study, pray, and prepare my needs to go to school.</p>
         
         
-        <h3><b></ul>The period of my life in elementary school</b></h3>
-        <p><p style="text-indent: 45px;">Not only did I struggle in the academic field, when I was in elementary school, I practiced non-academic fields such as chess, modern dance and scouting activities. For chess competitions I have won 4th place, for modern dance I have qualified up to city level, and for scouting I have represented my school in simultaneous camping events. I also took part in academic competitions and won several competitions, until at the end of the class when junior high school simultaneously held a PPDB independent test, I took part and only one school passed and continued to my favorite school via the PPDB independent test route. </p></ul>
+        <h3><b>The period of my life in elementary school</b></h3>
+        <p><p style="text-indent: 45px;">Not only did I struggle in the academic field, when I was in elementary school, I practiced non-academic fields such as chess, modern dance and scouting activities. For chess competitions I have won 4th place, for modern dance I have qualified up to city level, and for scouting I have represented my school in simultaneous camping events. I also took part in academic competitions and won several competitions, until at the end of the class when junior high school simultaneously held a PPDB independent test, I took part and only one school passed and continued to my favorite school via the PPDB independent test route. </p>
         
-        <h3><b></ul>The period of my life in junior high school</b></h3>
+        <h3><b>The period of my life in junior high school</b></h3>
         <p><p style="text-indent: 45px;">When I was in junior high school, I didn't have much time because class 8, semester 2, was on holiday for 2 years. However, when I was in grade 7, I qualified to represent my school in a mathematics competition at the national level with my friends. Then when I was in grade 8, semester 1, I took drama training and podcast training. But when it was time to perform, the school was closed for 2 weeks, and at that time I trained myself again, but it turned out that those 2 weeks turned into 2 years.</p>
-        <p><p style="text-indent: 45px;">Because there were no independent PPDB selection tests from my favorite high school or national exams due to the pandemic, I relied more on the national charter that I got in grade 7 rather than my report card grades, where the scores were mixed because at that time the pandemic. Luckily, thanks to this charter, I was accepted into my favorite high school in my area via the achievement route.</p></ul>
+        <p><p style="text-indent: 45px;">Because there were no independent PPDB selection tests from my favorite high school or national exams due to the pandemic, I relied more on the national charter that I got in grade 7 rather than my report card grades, where the scores were mixed because at that time the pandemic. Luckily, thanks to this charter, I was accepted into my favorite high school in my area via the achievement route.</p>
         
-        <h3><b></ul>The period of my life in Senior high school</b></h3>
+        <h3><b>The period of my life in Senior high school</b></h3>
         <p><p style="text-indent: 45px;">When I was in high school I wanted to try something new, namely organizations. I took part in the selection to become a student council administrator and I was accepted. When I took office, I created a joint work program with other members of the student council management and thanks to God's permission, the events we created were all successful. There was 1 event where I was the representative of the committee and 1 event where I was chairman of the committee, both of which were equally busy and tired, but when the event was successfully carried out in sequence, the tiredness disappeared and became a feeling of joy.</p>
-        <p><p style="text-indent: 45px;">After completing high school, I tried hard to get a scholarship to go to college. Thanks to hard work and support from my family, I managed to get a scholarship even though the scholarship was from an individual, not from an institution. There, I chose to study informatics, according to my interests and talents.</ul></p>
+        <p><p style="text-indent: 45px;">After completing high school, I tried hard to get a scholarship to go to college. Thanks to hard work and support from my family, I managed to get a scholarship even though the scholarship was from an individual, not from an institution. There, I chose to study informatics, according to my interests and talents.</p>
         
-        <h3><b></ul>The period of my life in University</b></h3>
+        <h3><b>The period of my life in University</b></h3>
         <p><p style="text-indent: 45px;">When I was in my first semester of college, I took part in the PIMNAS x AEC committee selection and I passed by becoming a member of the PIMNAS x AEC committee in the field of PDD which was tasked with carrying out documentation which was carried out during pre-event until after the event started. Starting while the meeting was taking photos for ID cards, to taking photos of the committee after the event was over.</p>
-        <p><p style="text-indent: 45px;"></p></ul>
+        <p><p style="text-indent: 45px;"></p>
     </div>
 
     <div class="container" id="achievements">
