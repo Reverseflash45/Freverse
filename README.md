@@ -105,7 +105,7 @@
 <h3><b>The period of my life in University</b></h3>
         <p><p style="text-indent: 45px;">When I was in my first semester of college, I took part in the PIMNAS x AEC committee selection and I passed by becoming a member of the PIMNAS x AEC committee in the field of PDD which was tasked with carrying out documentation which was carried out during pre-event until after the event started. Starting while the meeting was taking photos for ID cards, to taking photos of the committee after the event was over.</p>
         <p><p style="text-indent: 45px;"></p>
-    </div>
+    
 
  <div class="container" id="My Achievements">
         <h2>My Achievements</h2>
