@@ -148,7 +148,7 @@
 
         <ul><h3><b>My achievements during college</b></h3>
         <p>1. Nasional comittee certificate (PIMNAS x AEC)</p>
-        <img src="achievement/PIMNAS.png" alt="image" height="210" width="420"/></ul>
+        <img src="achievement/PIMNAS.jpg" alt="image" height="210" width="420"/></ul>
 
         <p>These are just a few of the steps I’ve taken to grow as a developer, and I am excited to see what the future holds!</p>
     </div>
