@@ -108,48 +108,49 @@
         <p><p style="text-indent: 45px;"></p>
 
     <div class="container" id="achievements">
+        
         <ul><h2>My Achievements</h2>
         
         <ul> <h3><b>My achievements during elementary school</b></h3>
         <p>1. Top 10 city level champion of elementar school dance</p>
-        <img src="achievement/sd1.jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/sd1.jpg" alt="image" height="210" width="420"/>
         
         <p>2. Become a sponsor of Antangin Junior product</p>
-        <img src="achievement/sd2.jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/sd2.jpg" alt="image" height="210" width="420"/>
 
         <p>3. representatives in inter-school scouting activities</p>
-        <img src="achievement/sd3.jpg" alt="image" height="210" width="420"/></ul>
+        <img src="Freverse/achievement/sd3.jpg" alt="image" height="210" width="420"/></ul>
 
         <ul><h3><b>My achievements during junior highschool</b></h3>
         <p>1. became a semifinalist in the national mathematics competition</p>
-        <img src="achievement/smp2.jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/smp2.jpg" alt="image" height="210" width="420"/>
         
         <p>2. became a finalist in the national mathematics competition</p>
-        <img src="achievement/smp1.jpg" alt="image" height="210" width="420"/></ul>
+        <img src="Freverse/achievement/smp1.jpg" alt="image" height="210" width="420"/></ul>
 
         <ul><h3><b>My achievements during senior highschool</b></h3>
         <p>1. Top 7 national mathematics olympiad</p>
-        <img src="achievement/sma (3).jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/sma (3).jpg" alt="image" height="210" width="420"/>
         
         <p>2. Top 3 national mathematics olympiad</p>
-        <img src="achievement/sma (4).jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/sma (4).jpg" alt="image" height="210" width="420"/>
 
         <p>3. Finisher in the silver category in the running competition</p>
-        <img src="achievement/sma (5).jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/sma (5).jpg" alt="image" height="210" width="420"/>
 
         <p>4. Become student council administrator for 1 period</p>
-        <img src="achievement/sma (6).jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/sma (6).jpg" alt="image" height="210" width="420"/>
 
         <p>5. representative in the competition for collage subjects majoring in industrial engineering</p>
-        <img src="achievement/sma (7).jpg" alt="image" height="210" width="420"/>
+        <img src="Freverse/achievement/sma (7).jpg" alt="image" height="210" width="420"/>
 
         <p>5. Passed the office test with an A grade</p>
-        <img src="achievement/kuliah.jpg" alt="image" height="210" width="420"/></ul>
+        <img src="Freverse/achievement/kuliah.jpg" alt="image" height="210" width="420"/></ul>
 
         <ul><h3><b>My achievements during college</b></h3>
         <p>1. Nasional comittee certificate (PIMNAS x AEC)</p>
-        <img src="achievement/PIMNAS.jpg" alt="image" height="210" width="420"/></ul>
-
+        <img src="Freverse/achievement/PIMNAS.jpg" alt="image" height="210" width="420"/></ul>
+        
         <p>These are just a few of the steps I’ve taken to grow as a developer, and I am excited to see what the future holds!</p>
     </div>
 
