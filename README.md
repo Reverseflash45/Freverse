@@ -152,7 +152,7 @@
         <img src="Freverse/achievement/PIMNAS.jpg" alt="image" height="210" width="420"/></ul>
         
 <p>These are just a few of the steps I’ve taken to grow as a developer, and I am excited to see what the future holds!</p>
-    </div>
+
 
 <div class="container" id="My hobbies">
         <h2>My hobbies</h2>
