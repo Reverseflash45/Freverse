@@ -177,7 +177,7 @@
 
 
 <div class="container" id="My Favorites">
-        <h2>My hobbies</h2>
+        <h2>My Favorites</h2>
         <p>Here are some of the ideas I am passionate about and want to work on:</p>
         <ul>
             <li><strong>Running:</strong> I believe that technology can solve many of the world’s problems. I want to create software solutions that help people and make the world a better place.</li>
