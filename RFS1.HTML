@@ -58,7 +58,7 @@
 <nav>
         <a href="javascript:void(0);" onclick="showPage('home')">Home</a>
         <a href="javascript:void(0);" onclick="showPage('My Stories')">My Stories</a>
-        <a href="javascript:void(0);" onclick="showPage('My Achievements')">My Achievements</a>
+        <a href="javascript:void(0);" onclick="showPage('My_Achievements')">My Achievements</a>
         <a href="javascript:void(0);" onclick="showPage('My Failures')">My Failures</a>
         <a href="javascript:void(0);" onclick="showPage('My Hobbies')">My Hobbies</a>
         <a href="javascript:void(0);" onclick="showPage('My Favorites')">My Favorites</a>
@@ -107,7 +107,7 @@
         <p><p style="text-indent: 45px;"></p>
     
 
- <div class="container" id="My Achievements">
+ <div class="container" id="My_Achievements">
         <h2>My Achievements</h2>
         
 <ul> <h3><b>My achievements during elementary school</b></h3>
