@@ -56,13 +56,13 @@
     </header>
 
 <nav>
-        <a href="javascript:void(0);" onclick="showPage('home')">Home</a>
-        <a href="javascript:void(0);" onclick="showPage('My Stories')">My Stories</a>
-        <a href="javascript:void(0);" onclick="showPage('My_Achievements')">My Achievements</a>
-        <a href="javascript:void(0);" onclick="showPage('My Failures')">My Failures</a>
-        <a href="javascript:void(0);" onclick="showPage('My Hobbies')">My Hobbies</a>
-        <a href="javascript:void(0);" onclick="showPage('My Favorites')">My Favorites</a>
-        <a href="javascript:void(0);" onclick="showPage('Things I Hate')">Things I Hate</a>
+    <a href="javascript:void(0);" onclick="showPage('home')">Home</a>
+    <a href="javascript:void(0);" onclick="showPage('My_Stories')">My Stories</a>
+    <a href="javascript:void(0);" onclick="showPage('My_Achievements')">My Achievements</a>
+    <a href="javascript:void(0);" onclick="showPage('My_Failures')">My Failures</a>
+    <a href="javascript:void(0);" onclick="showPage('My_Hobbies')">My Hobbies</a>
+    <a href="javascript:void(0);" onclick="showPage('My_Favorites')">My Favorites</a>
+    <a href="javascript:void(0);" onclick="showPage('Things_I_Hate')">Things I Hate</a>
 </nav>
 
 <div class="container" id="home">
@@ -81,7 +81,7 @@
     </div>
 
     
-<div class="container" id="My Stories">
+<div class="container" id="My_Stories">
         <h2>My Stories</h2>
         
 <h3><b>Introduce</b></h3>
@@ -153,8 +153,8 @@
 <p>These are just a few of the steps I’ve taken to grow as a developer, and I am excited to see what the future holds!</p>
     </div>
 
-<div class="container" id="My Hobbies">
-        <h2>My hobbies</h2>
+<div class="container" id="My_Hobbies">
+        <h2>My Hobbies</h2>
 
 <p>The following are some of my hobbies so far:</p>
         
@@ -176,7 +176,7 @@
         
 
 
-<div class="container" id="My Favorites">
+<div class="container" id="My_Favorites">
         <h2>My Favorites</h2>
         <p>Here are some of the ideas I am passionate about and want to work on:</p>
         <ul>
@@ -194,13 +194,13 @@
 
 <script>
         // Fungsi untuk menampilkan bagian yang dipilih
-       function showPage(pageId) {
+     function showPage(pageId) {
     const sections = document.querySelectorAll('.container');
     sections.forEach(section => {
         section.classList.remove('active');
     });
 
-    const activeSection = document.getElementById(pageId.replace(" ", "_")); // Mengganti spasi dengan underscore
+    const activeSection = document.getElementById(pageId); // Tidak perlu mengganti spasi jika ID sudah benar
     if (activeSection) {
         activeSection.classList.add('active');
     }
