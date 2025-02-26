@@ -206,8 +206,8 @@
     <p></p>
 </div>
 
-<footer style="background-color: #333; color: white; padding: 10px; position: relative; width: 100%; margin-top: 20px;">
-    <p style="margin: 0; text-align: center;">&copy; 2024 Web page Kurosaki Rafi Yeager. All rights reserved.</p>
+<footer style="display: flex; justify-content: space-between; align-items: center; background-color: #333; color: white; padding: 10px; margin-top: 20px;">
+    <p style="margin: 0;">&copy; 2024 Web page Kurosaki Rafi Yeager. All rights reserved.</p>
 </footer>
 
 </body>
