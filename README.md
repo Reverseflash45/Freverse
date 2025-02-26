@@ -194,19 +194,17 @@
 
 <script>
         // Fungsi untuk menampilkan bagian yang dipilih
-        function showPage(pageId) {
-            // Menyembunyikan semua bagian
-            const sections = document.querySelectorAll('.container');
-            sections.forEach(section => {
-                section.classList.remove('active');
-            });
+       function showPage(pageId) {
+    const sections = document.querySelectorAll('.container');
+    sections.forEach(section => {
+        section.classList.remove('active');
+    });
 
-            // Menampilkan bagian yang dipilih
-            const activeSection = document.getElementById(pageId);
-            if (activeSection) {
-                activeSection.classList.add('active');
-            }
-        }
+    const activeSection = document.getElementById(pageId.replace(" ", "_")); // Mengganti spasi dengan underscore
+    if (activeSection) {
+        activeSection.classList.add('active');
+    }
+}
 
         // Menampilkan halaman "Home" secara default saat pertama kali dimuat
         window.onload = function() {
