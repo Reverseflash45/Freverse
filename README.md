@@ -59,10 +59,10 @@
         <a href="javascript:void(0);" onclick="showPage('home')">Home</a>
         <a href="javascript:void(0);" onclick="showPage('My Stories')">My Stories</a>
         <a href="javascript:void(0);" onclick="showPage('My Achievements')">My Achievements</a>
-        <a href="javascript:void(0);" onclick="showPage('My failures')">My failures</a>
-        <a href="javascript:void(0);" onclick="showPage('My hobbies')">My hobbies</a>
+        <a href="javascript:void(0);" onclick="showPage('My Failures')">My Failures</a>
+        <a href="javascript:void(0);" onclick="showPage('My Hobbies')">My Hobbies</a>
         <a href="javascript:void(0);" onclick="showPage('My Favorites')">My Favorites</a>
-        <a href="javascript:void(0);" onclick="showPage('Things I hate')">Things I hate</a>
+        <a href="javascript:void(0);" onclick="showPage('Things I Hate')">Things I Hate</a>
 </nav>
 
 <div class="container" id="home">
@@ -153,7 +153,7 @@
 <p>These are just a few of the steps I’ve taken to grow as a developer, and I am excited to see what the future holds!</p>
     </div>
 
-<div class="container" id="My hobbies">
+<div class="container" id="My Hobbies">
         <h2>My hobbies</h2>
 
 <p>The following are some of my hobbies so far:</p>
