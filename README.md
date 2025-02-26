@@ -129,19 +129,19 @@
 
 <ul><h3><b>My achievements during senior highschool</b></h3>
         <p>1. Top 7 national mathematics olympiad</p>
-        <img src="sma (3).jpg" alt="image" height="210" width="420"/>
+        <img src="SMA (3).jpg" alt="image" height="210" width="420"/>
         
 <p>2. Top 3 national mathematics olympiad</p>
-        <img src="sma (4).jpg" alt="image" height="210" width="420"/>
+        <img src="SMA (4).jpg" alt="image" height="210" width="420"/>
 
 <p>3. Finisher in the silver category in the running competition</p>
-        <img src="sma (5).jpg" alt="image" height="210" width="420"/>
+        <img src="SMA (5).jpg" alt="image" height="210" width="420"/>
 
 <p>4. Become student council administrator for 1 period</p>
-        <img src="sma (6).jpg" alt="image" height="210" width="420"/>
+        <img src="SMA (6).jpg" alt="image" height="210" width="420"/>
 
 <p>5. representative in the competition for collage subjects majoring in industrial engineering</p>
-        <img src="sma (7).jpg" alt="image" height="210" width="420"/>
+        <img src="SMA (7).jpg" alt="image" height="210" width="420"/>
 
 <p>6. Passed the office test with an A grade</p>
         <img src="kuliah.jpg" alt="image" height="210" width="420"/></ul>
