@@ -46,11 +46,19 @@
             bottom: 0;
             width: 100%;
             margin: 0 auto;
+            justify-content: center;
 
         }
         .active {
             display: block; /* Menampilkan bagian yang dipilih */
         }
+
+@media (max-width: 600px) {
+    footer {
+        text-align: center; /* Untuk perangkat yang lebih kecil */
+    }
+}
+
     </style>
 </head>
 <body>
