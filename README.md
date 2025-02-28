@@ -9,6 +9,7 @@
             background-color: #f4f4f4;
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
         }
         header {
             background-color: #0084ff;
@@ -19,6 +20,7 @@
         nav {
             background-color: #333;
             overflow: hidden;
+            width: 100%;
         }
         nav a {
             color: white;
@@ -43,6 +45,8 @@
             position: fixed;
             bottom: 0;
             width: 100%;
+            margin: 0 auto;
+
         }
         .active {
             display: block; /* Menampilkan bagian yang dipilih */
