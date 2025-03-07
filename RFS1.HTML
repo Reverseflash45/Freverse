@@ -120,21 +120,35 @@
     };
 </script>
 
-<div class="container" id="home">
-    <h2>Home</h2>
-    <p>Welcome to my first website! This is where I practice my skills and share my personal journey. I hope you enjoy exploring the pages and get to know more about me, my achievements, and the ideas I am passionate about.</p>
-    <p>This website serves multiple purposes, including:</p>
-    <ul>
+<div class="container" id="home" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #333;">Home</h2>
+    <p style="font-size: 16px; line-height: 1.5;">Welcome to my first website! This is where I practice my skills and share my personal journey. I hope you enjoy exploring the pages and get to know more about me, my achievements, and the ideas I am passionate about.</p>
+    <p style="font-size: 16px; line-height: 1.5;">This website serves multiple purposes, including:</p>
+    <ul style="padding-left: 20px;">
         <li>Practicing and improving my coding skills</li>
         <li>Introducing myself to the world</li>
         <li>Sharing my ideas and vision with others</li>
         <li>Showcasing my achievements</li>
     </ul>
-    <p>I hope you enjoy this site and feel inspired by the things I am working on!</p>
+    <p style="font-size: 16px; line-height: 1.5;">I hope you enjoy this site and feel inspired by the things I am working on!</p>
+
+    <h2 style="color: #333;">Home</h2>
+    <p style="font-size: 16px; line-height: 1.5;">Welcome to my first website! This is where I practice my skills and share my personal journey. I hope you enjoy exploring the pages and get to know more about me, my achievements, and the ideas I am passionate about.</p>
+    <p style="font-size: 16px; line-height: 1.5;">This website serves multiple purposes, including:</p>
+    <ul style="padding-left: 20px;">
+        <li>Practicing and improving my coding skills</li>
+        <li>Introducing myself to the world</li>
+        <li>Sharing my ideas and vision with others</li>
+        <li>Showcasing my achievements</li>
+    </ul>
+    <p style="font-size: 16px; line-height: 1.5;">I hope you enjoy this site and feel inspired by the things I am working on!</p>
+
     <img src="https://gifdb.com/images/high/jojo-s-kakyoin-cherry-tongue-9ffq5scfr70o6sft.gif">
 </div>
 
-<div class="container" id="My_Stories">
+<div class="container" id="My_Stories" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #333;">My Stories</h2>
+
     <h2>My Stories</h2>
     <h3><b>Introduce</b></h3>
     <p style="text-indent: 45px;">My name is Rafi Fernandito Setiawan, or known as Rafi. My birthplace is Kediri City, located in East Java, on January 26 2005. Since childhood, I have always had high aspirations. Even though I live in simple conditions, my parents always encourage me to dare to achieve my dreams and work hard to make them come true.</p>
@@ -152,48 +166,88 @@
     <p style="text-indent: 45px;">When I was in my first semester of college, I took part in the PIMNAS x AEC committee selection and I passed by becoming a member of the PIMNAS x AEC committee in the field of PDD which was tasked with carrying out documentation which was carried out during pre-event until after the event started. Starting while the meeting was taking photos for ID cards, to taking photos of the committee after the event was over.</p>
 </div>
 
-<div class="container" id="My_Achievements">
+<div class="container" id="My_Achievements" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #333;">My Achievements</h2>
+
     <h2>My Achievements</h2>
     <ul>
         <h3><b>My achievements during elementary school</b></h3>
         <p>1. Top 10 city level champion of elementary school dance</p>
-        <img src="sd1.jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="sd1.jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>2. Become a sponsor of Antangin Junior product</p>
-        <img src="sd2.jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="sd2.jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>3. Representatives in inter-school scouting activities</p>
-        <img src="sd3.jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="sd3.jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
     </ul>
     <ul>
         <h3><b>My achievements during junior high school</b></h3>
         <p>1. Became a semifinalist in the national mathematics competition</p>
-        <img src="smp2.jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="smp2.jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>2. Became a finalist in the national mathematics competition</p>
-        <img src="smp1.jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="smp1.jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
     </ul>
     <ul>
         <h3><b>My achievements during senior high school</b></h3>
         <p>1. Top 7 national mathematics olympiad</p>
-        <img src="SMA (3).jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="SMA (3).jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>2. Top 3 national mathematics olympiad</p>
-        <img src="SMA (4).jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="SMA (4).jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>3. Finisher in the silver category in the running competition</p>
-        <img src="SMA (5).jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="SMA (5).jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>4. Become student council administrator for 1 period</p>
-        <img src="SMA (6).jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="SMA (6).jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>5. Representative in the competition for college subjects majoring in industrial engineering</p>
-        <img src="SMA (7).jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="SMA (7).jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
         <p>6. Passed the office test with an A grade</p>
-        <img src="kuliah.jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="kuliah.jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
     </ul>
     <ul>
         <h3><b>My achievements during college</b></h3>
         <p>1. National committee certificate (PIMNAS x AEC)</p>
-        <img src="PIMNAS.jpg" alt="image" height="210" width="420"/>
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; display: inline-block; margin: 10px;">
+    <img src="PIMNAS.jpg" alt="image" height="210" width="420" style="border-radius: 5px;"/>
+</div>
+
     </ul>
     <p>These are just a few of the steps I’ve taken to grow as a developer, and I am excited to see what the future holds!</p>
 </div>
 
-<div class="container" id="My_Failures">
+<div class="container" id="My_Failures" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #333;">My Failures</h2>
+
     <h2>My Failures</h2>
     <p>Here I will mention things that made my life fail in the past.:</p>
     <li><strong>Lack of life planning:</strong></li>
@@ -207,7 +261,9 @@
     <p></p>
 </div>
 
-<div class="container" id="My_Hobbies">
+<div class="container" id="My_Hobbies" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #333;">My Hobbies</h2>
+
     <h2>My Hobbies</h2>
     <p>The following are some of my hobbies so far:</p>
     <li><strong>Running:</strong></li>
@@ -220,7 +276,9 @@
     <p style="text-indent: 45px;">I have been interested in the world of coding since I was a child. I see people coding and it looks really cool. This is also what caused me to major in informatics engineering when I was in college, I really wanted to be able to code because my interest has been there since I was little. I also want to make this my dream. In the future I want to work in this field with remote work, I am very interested in remote work because there is no need to go out to work, besides that remote work is also very efficient because the market is very wide from various countries. Apart from that, working remotely can also be done anytime and anywhere without thinking about where we are and when we do our work, we just need to pay attention to the latest deadline for the job desk we are taking. If you don't want to delay, we can finish it directly.</p>
 </div>
 
-<div class="container" id="My_Favorites">
+<div class="container" id="My_Favorites" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #333;">My Favorites</h2>
+
     <h2>My Favorites and My Unfavorite</h2>
     <p>Some of my favorites and my unfavorite:</p>
 
@@ -245,7 +303,9 @@
         <br>Unfavorite: Sugary
 </div>
 
-<div class="container" id="Things_I_Hate">
+<div class="container" id="Things_I_Hate" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #333;">Things I Hate</h2>
+
     <h2>Things I Hate</h2>
     <p>Here are some of the things I dislike and want to express:</p>
     
