@@ -19,16 +19,23 @@
         }
         nav {
             background-color: #333;
-            overflow: hidden;
-            width: 100%;
+            display: flex; /* Changed from overflow: hidden to display: flex */
+            flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+            justify-content: center; /* Center the nav items */
         }
         nav a {
             color: white;
-            float: left;
             padding: 14px 20px;
             text-align: center;
             text-decoration: none;
+            flex: 1; /* Allow links to grow and shrink */
+            min-width: 120px; /* Set a minimum width for each link */
         }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
         nav a:hover {
             background-color: #ddd;
             color: black;
@@ -47,6 +54,7 @@
             width: 100%;
             margin: 0 auto;
             justify-content: center;
+            display: flex;
 
         }
         .active {
@@ -60,6 +68,22 @@
 }
 
     </style>
+    <style>
+        @media (max-width: 600px) {
+            nav a {
+                padding: 10px; /* Adjust padding for mobile */
+                font-size: 14px; /* Adjust font size for mobile */
+            }
+            header h1 {
+                font-size: 24px; /* Adjust header size for mobile */
+            }
+            footer {
+                flex-direction: column; /* Stack footer items on mobile */
+                align-items: center; /* Center footer items */
+            }
+        }
+    </style>
+
 </head>
 <body>
     <header>
@@ -72,7 +96,7 @@
     <a href="javascript:void(0);" onclick="showPage('My_Achievements')">My Achievements</a>
     <a href="javascript:void(0);" onclick="showPage('My_Failures')">My Failures</a>
     <a href="javascript:void(0);" onclick="showPage('My_Hobbies')">My Hobbies</a>
-    <a href="javascript:void(0);" onclick="showPage('My_Favorites')">My Favorites</a>
+    <a href="javascript:void(0);" onclick="showPage('My_Favorites')">My Fav & Unfav</a>
     <a href="javascript:void(0);" onclick="showPage('Things_I_Hate')">Things I Hate</a>
 </nav>
 
@@ -171,13 +195,15 @@
 
 <div class="container" id="My_Failures">
     <h2>My Failures</h2>
-    <p>Hf:</p>
-    <ul>
-        <li><strong>A:</strong> C</li>
-        <li><strong>B:</strong>C </li>
-        <li><strong>V:</strong>V </li>
-        <li><strong>AC:</strong>F </li>
-    </ul>
+    <p>Here I will mention things that made my life fail in the past.:</p>
+    <li><strong>Lack of life planning:</strong></li>
+    <p style="text-indent: 45px;">When I was still a teenager, I really underestimated the so-called life plan. I just lived my days normally without a plan and without ambition which caused my life at that time to be very chaotic.</p>
+    <li><strong>Taking relationships for granted:</strong></li>
+    <p style="text-indent: 45px;">This also happened when I was still a teenager. I used to be a very closed and introverted person, even my friends and family also called me anti-camera because I really didn't want to get involved with other people in real life or social media. This caused me to not know enough people in high school which made it difficult for me to find information about something.</p>
+    <li><strong>Not focusing on myself:</strong></li>
+    <p style="text-indent: 45px;">When I was still in high school and in 3rd grade, I had someone I liked and I focused on the person I liked by honing the skills that the person I liked liked, which might not be useful in the future.</p>
+    <li><strong>Too crazy about hobbies and doesn't hone skills:</strong></li>
+    <p style="text-indent: 45px;">This happened when I was still in high school and I really liked running and cycling and this resulted in me always honing those skills and being reluctant to study school material.</p>
     <p></p>
 </div>
 
@@ -195,32 +221,46 @@
 </div>
 
 <div class="container" id="My_Favorites">
-    <h2>My Favorites</h2>
-    <p>Here are some of the ideas I am passionate about and want to work on:</p>
-    <ul>
-        <li><strong>Running:</strong> I believe that technology can solve many of the world’s problems. I want to create software solutions that help people and make the world a better place.</li>
-        <li><strong>Education:</strong> I am a strong advocate for accessible education. I am working on building platforms that help people learn new skills and advance in their careers.</li>
-        <li><strong>Gaming:</strong> As a fan of gaming, I want to develop games that are both fun and educational, merging entertainment with learning.</li>
-        <li><strong>AI and Automation:</strong> I am fascinated by artificial intelligence and how it can automate tedious tasks and improve our daily lives.</li>
-    </ul>
-    <p>These ideas are just a starting point. As I continue to grow in my career, I hope to turn these ideas into meaningful projects.</p>
+    <h2>My Favorites and My Unfavorite</h2>
+    <p>Some of my favorites and my unfavorite:</p>
+
+    <p style="text-indent: 45px;"></p>
+    <strong>Food:</strong>
+        <br>favorite: Cheese Burger & Fried Rice
+        <br>Unfavorite: Spicy Food
+
+    <p style="text-indent: 45px;"></p>
+    <strong>Drink:</strong>
+        <br>favorite: Mineral Water
+        <br>Unfavorite: Sugary Drink
+
+    <p style="text-indent: 45px;"></p>
+    <strong>Taste of Food:</strong>
+        <br>favorite: Savory and Salty
+        <br>Unfavorite: Spicy
+
+    <p style="text-indent: 45px;"></p>
+    <strong>Taste of Drink:</strong>
+        <br>favorite: Savory and Salty
+        <br>Unfavorite: Sugary
 </div>
 
 <div class="container" id="Things_I_Hate">
     <h2>Things I Hate</h2>
     <p>Here are some of the things I dislike and want to express:</p>
-    <ul>
-        <li><strong>A:</strong> C</li>
-        <li><strong>B:</strong>C </li>
-        <li><strong>V:</strong>V </li>
-        <li><strong>AC:</strong>F </li>
-    </ul>
-    <p></p>
+    
+        <strong>1. A person who breaks a promise</strong>
+        <br><p style="text-indent: 45px;">I don't like people who break their promises, especially those who take them too lightly. For example, making an appointment at 7 am but being 45 minutes late. For me, a promise is an undocumented or unwritten contract that must be kept, unless there is an urgent situation that is more important than what was promised.</p>
+    
+        <strong>2. People who smoke in public</strong>
+        <br><p style="text-indent: 45px;">Smoking alone is very detrimental to people around the smoker (passive smokers), let alone smoking in public places, especially while driving. This is very dangerous for pregnant women, young children, people with a history of asthma, the elderly, drivers, and there are many more effects of smoking in public places that are very detrimental to people around the smoker.</p>
 </div>
 
-<footer style="display: flex; justify-content: space-between; align-items: center; background-color: #333; color: white; padding: 10px; margin-top: 20px;">
+<footer style="background-color: #f4f4f4; color: #333; padding: 20px; text-align: center; position: relative; margin-top: 20px;">
+
     <p style="margin: 0;">&copy; 2024 Web page Kurosaki Rafi Yeager. All rights reserved.</p>
 </footer>
+
 
 </body>
 </html>
