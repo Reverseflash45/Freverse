@@ -19,30 +19,25 @@
         }
         nav {
             background-color: #333;
-            display: flex; /* Changed from overflow: hidden to display: flex */
-            flex-wrap: wrap; /* Allow items to wrap on smaller screens */
-            justify-content: center; /* Center the nav items */
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
         }
         nav a {
             color: white;
             padding: 14px 20px;
             text-align: center;
             text-decoration: none;
-            flex: 1; /* Allow links to grow and shrink */
-            min-width: 120px; /* Set a minimum width for each link */
+            flex: 1;
+            min-width: 120px;
         }
-        nav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-
         nav a:hover {
             background-color: #ddd;
             color: black;
         }
         .container {
             padding: 20px;
-            display: none; /* Menyembunyikan semua bagian pada awalnya */
+            display: none;
         }
         footer {
             background-color: #333;
@@ -55,35 +50,29 @@
             margin: 0 auto;
             justify-content: center;
             display: flex;
-
         }
         .active {
-            display: block; /* Menampilkan bagian yang dipilih */
+            display: block;
         }
-
-@media (max-width: 600px) {
-    footer {
-        text-align: center; /* Untuk perangkat yang lebih kecil */
-    }
-}
-
-    </style>
-    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
         @media (max-width: 600px) {
             nav a {
-                padding: 10px; /* Adjust padding for mobile */
-                font-size: 14px; /* Adjust font size for mobile */
+                padding: 10px;
+                font-size: 14px;
             }
             header h1 {
-                font-size: 24px; /* Adjust header size for mobile */
+                font-size: 24px;
             }
             footer {
-                flex-direction: column; /* Stack footer items on mobile */
-                align-items: center; /* Center footer items */
+                flex-direction: column;
+                align-items: center;
             }
         }
     </style>
-
 </head>
 <body>
     <header>
@@ -101,7 +90,6 @@
 </nav>
 
 <script>
-    // Fungsi untuk menampilkan bagian yang dipilih
     function showPage(pageId) {
         const sections = document.querySelectorAll('.container');
         sections.forEach(section => {
@@ -114,7 +102,6 @@
         }
     }
 
-    // Menampilkan halaman "Home" secara default saat pertama kali dimuat
     window.onload = function() {
         showPage('home');
     };
@@ -132,23 +119,11 @@
     </ul>
     <p style="font-size: 16px; line-height: 1.5;">I hope you enjoy this site and feel inspired by the things I am working on!</p>
 
-    <h2 style="color: #333;">Home</h2>
-    <p style="font-size: 16px; line-height: 1.5;">Welcome to my first website! This is where I practice my skills and share my personal journey. I hope you enjoy exploring the pages and get to know more about me, my achievements, and the ideas I am passionate about.</p>
-    <p style="font-size: 16px; line-height: 1.5;">This website serves multiple purposes, including:</p>
-    <ul style="padding-left: 20px;">
-        <li>Practicing and improving my coding skills</li>
-        <li>Introducing myself to the world</li>
-        <li>Sharing my ideas and vision with others</li>
-        <li>Showcasing my achievements</li>
-    </ul>
-    <p style="font-size: 16px; line-height: 1.5;">I hope you enjoy this site and feel inspired by the things I am working on!</p>
-
     <img src="https://gifdb.com/images/high/jojo-s-kakyoin-cherry-tongue-9ffq5scfr70o6sft.gif">
 </div>
 
 <div class="container" id="My_Stories" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Stories</h2>
-
     <h3><b>Introduce</b></h3>
     <p style="text-indent: 45px;">My name is Rafi Fernandito Setiawan, or known as Rafi. My birthplace is Kediri City, located in East Java, on January 26 2005. Since childhood, I have always had high aspirations. Even though I live in simple conditions, my parents always encourage me to dare to achieve my dreams and work hard to make them come true.</p>
     <h3><b>The period of my life in kindergarden</b></h3>
@@ -167,7 +142,6 @@
 
 <div class="container" id="My_Achievements" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Achievements</h2>
-
     <ul>
         <h3><b>My achievements during elementary school</b></h3>
         <p>1. Top 10 city level champion of elementary school dance</p>
@@ -245,7 +219,6 @@
 
 <div class="container" id="My_Failures" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Failures</h2>
-
     <p>Here I will mention things that made my life fail in the past.:</p>
     <li><strong>Lack of life planning:</strong></li>
     <p style="text-indent: 45px;">When I was still a teenager, I really underestimated the so-called life plan. I just lived my days normally without a plan and without ambition which caused my life at that time to be very chaotic.</p>
@@ -260,7 +233,6 @@
 
 <div class="container" id="My_Hobbies" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Hobbies</h2>
-
     <p>The following are some of my hobbies so far:</p>
     <li><strong>Running:</strong></li>
     <p style="text-indent: 45px;">of high school because I wanted to enroll in an official school, but over time this became one of my hobbies. Usually I run when I have a problem or when I'm worried about something. I use running as an outlet for my feelings of unease. During my training, my running was very structured in terms of time, speed and distance. but when I'm in an unstable state of mind I can run anytime and anywhere, besides that my speed and distance in running will also increase if I'm in an unstable state of mind.Why do I say running is my hobby to relieve myself when my mind is confused? That's because since I was in second year of high school I wasn't interested in games or films anymore, I also didn't have a girlfriend or friends who were very, very close so that I could talk about all my problems in high school. My close friends are all suitable for playing, not suitable for telling stories so I vent my chaotic emotions or feelings into running.</p>
@@ -273,8 +245,7 @@
 </div>
 
 <div class="container" id="My_Favorites" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <h2 style="color: #333;">My Favorites and My Unfavorite</h2>
-    
+    <h2 style="color: #333;">My Favorites and My Unfavorites</h2>
     <p>Some of my favorites and my unfavorite:</p>
 
     <p style="text-indent: 45px;"></p>
@@ -300,7 +271,6 @@
 
 <div class="container" id="Things_I_Hate" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">Things I Hate</h2>
-
     <p>Here are some of the things I dislike and want to express:</p>
     
         <strong>1. A person who breaks a promise</strong>
