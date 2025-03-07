@@ -274,8 +274,7 @@
 
 <div class="container" id="My_Favorites" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Favorites and My Unfavorite</h2>
-
-    <h2>My Favorites and My Unfavorite</h2>
+    
     <p>Some of my favorites and my unfavorite:</p>
 
     <p style="text-indent: 45px;"></p>
@@ -302,7 +301,6 @@
 <div class="container" id="Things_I_Hate" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">Things I Hate</h2>
 
-    <h2>Things I Hate</h2>
     <p>Here are some of the things I dislike and want to express:</p>
     
         <strong>1. A person who breaks a promise</strong>
