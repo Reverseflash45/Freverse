@@ -149,7 +149,6 @@
 <div class="container" id="My_Stories" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Stories</h2>
 
-    <h2>My Stories</h2>
     <h3><b>Introduce</b></h3>
     <p style="text-indent: 45px;">My name is Rafi Fernandito Setiawan, or known as Rafi. My birthplace is Kediri City, located in East Java, on January 26 2005. Since childhood, I have always had high aspirations. Even though I live in simple conditions, my parents always encourage me to dare to achieve my dreams and work hard to make them come true.</p>
     <h3><b>The period of my life in kindergarden</b></h3>
@@ -169,7 +168,6 @@
 <div class="container" id="My_Achievements" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Achievements</h2>
 
-    <h2>My Achievements</h2>
     <ul>
         <h3><b>My achievements during elementary school</b></h3>
         <p>1. Top 10 city level champion of elementary school dance</p>
@@ -248,7 +246,6 @@
 <div class="container" id="My_Failures" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Failures</h2>
 
-    <h2>My Failures</h2>
     <p>Here I will mention things that made my life fail in the past.:</p>
     <li><strong>Lack of life planning:</strong></li>
     <p style="text-indent: 45px;">When I was still a teenager, I really underestimated the so-called life plan. I just lived my days normally without a plan and without ambition which caused my life at that time to be very chaotic.</p>
@@ -264,7 +261,6 @@
 <div class="container" id="My_Hobbies" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">My Hobbies</h2>
 
-    <h2>My Hobbies</h2>
     <p>The following are some of my hobbies so far:</p>
     <li><strong>Running:</strong></li>
     <p style="text-indent: 45px;">of high school because I wanted to enroll in an official school, but over time this became one of my hobbies. Usually I run when I have a problem or when I'm worried about something. I use running as an outlet for my feelings of unease. During my training, my running was very structured in terms of time, speed and distance. but when I'm in an unstable state of mind I can run anytime and anywhere, besides that my speed and distance in running will also increase if I'm in an unstable state of mind.Why do I say running is my hobby to relieve myself when my mind is confused? That's because since I was in second year of high school I wasn't interested in games or films anymore, I also didn't have a girlfriend or friends who were very, very close so that I could talk about all my problems in high school. My close friends are all suitable for playing, not suitable for telling stories so I vent my chaotic emotions or feelings into running.</p>
@@ -277,7 +273,7 @@
 </div>
 
 <div class="container" id="My_Favorites" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <h2 style="color: #333;">My Favorites</h2>
+    <h2 style="color: #333;">My Favorites and My Unfavorite</h2>
 
     <h2>My Favorites and My Unfavorite</h2>
     <p>Some of my favorites and my unfavorite:</p>
