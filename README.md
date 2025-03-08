@@ -125,7 +125,7 @@
     </ul>
     <p style="font-size: 16px; line-height: 1.5;">I hope you enjoy this site and feel inspired by the things I am working on!</p>
 
-    <img src="https://gifdb.com/images/high/jojo-s-kakyoin-cherry-tongue-9ffq5scfr70o6sft.gif">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhbTd2dmdrcmJyMHBkMmU0c3h1ZWtzYnA0ZGl4bDh2NWM2MWIwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufaKwBoqwQItgic/giphy.gif">
 </div>
 
 <div class="container" id="My_Stories" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
